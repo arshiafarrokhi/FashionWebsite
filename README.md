@@ -1,6 +1,6 @@
 #fashion website
 
-- [Demo Project](https://arshiafarrokhi.github.io/project-3/)
+- [Demo Project]( https://arshiafarrokhi.github.io/FashionWebsite/)
 
 - Developed by arshia farrokhi
 
